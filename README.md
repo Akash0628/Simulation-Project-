@@ -1,12 +1,12 @@
 # Folded cascoded operational amplifier
 
 - Druthan M D
-  Electronics and Communication            Engineering
-  NIE Mysore, India
-  2024lec_druthanmd_a@nie.ac.in
+Electronics and Communication Engineering
+NIE Mysore, India
+2024lec_druthanmd_a@nie.ac.in
 
 - Akash H A
-  Electronics and Communication            Engineering
+  Electronics and Communication Engineering
   NIE Mysore, India
   2024lec_akashha_a@nie.ac.in
 
